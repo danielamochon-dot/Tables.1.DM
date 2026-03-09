@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
     <title>Art History Table</title>
     <style>
-        /* Adding some basic CSS so you can actually see the table borders */
         table { border-collapse: collapse; width: 80%; margin: 20px auto; font-family: sans-serif; }
         th, td { border: 1px solid #444; padding: 12px; text-align: left; }
         th { background-color: #f4f4f4; }
