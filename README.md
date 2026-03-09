@@ -38,8 +38,7 @@
         </tr>
       </tbody>
     </table>
-
-    <h3>Essential Art Analysis Tools</h3>
+ <h3>Essential Art Analysis Tools</h3>
     <ol>
       <li>Composition and Lighting</li>
       <li>Historical Context</li>
