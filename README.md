@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
     <title>Art History Table</title>
     <style>
-        table { border-collapse: collapse; width: 80%; margin: 20px auto; font-family: sans-serif; }
-        th, td { border: 1px solid #444; padding: 12px; text-align: left; }
+        table {border-collapse: collapse; width: 80%; margin: 20px auto; font-family: sans-serif;}
+        th, td {border: 1px solid #444; padding: 12px; text-align: left;}
         th { background-color: #f4f4f4; }
         caption { font-weight: bold; font-size: 1.5em; margin-bottom: 10px; }
     </style>
