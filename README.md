@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <title>Art History Table</title>
     <style>
         /* Adding some basic CSS so you can actually see the table borders */
