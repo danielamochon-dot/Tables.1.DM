@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title> Art History Table </title>
-</head>
+
 <body>
     <table>
       <caption>Comparison of Major Western Art Movements</caption>
