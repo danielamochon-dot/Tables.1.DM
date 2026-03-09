@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <title>Art History Table</title>
+<title> Art History Table </title>
 </head>
 <body>
     <table>
