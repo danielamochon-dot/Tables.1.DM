@@ -12,7 +12,6 @@
     </style>
 </head>
 <body>
-
     <table>
       <caption>Comparison of Major Western Art Movements</caption>
       <thead>
